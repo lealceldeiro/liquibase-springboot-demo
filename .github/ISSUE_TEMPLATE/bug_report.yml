@@ -42,7 +42,7 @@ body:
     id: browser-type
     attributes:
       label: Browser
-      description: What browser are you using to visit our blog? (You could [search how to know that](https://duckduckgo.com/?q=how+to+know+what+browser+i'm+using){:target="_blank"} or visit [https://www.whatsmybrowser.org/](https://www.whatsmybrowser.org/){:target="_blank"})
+      description: What browser are you using to visit our blog? (You could [search how to know that](https://duckduckgo.com/?q=how+to+know+what+browser+i'm+using){"_blank"} or visit [https://www.whatsmybrowser.org/](https://www.whatsmybrowser.org/){"_blank"})
       options:
         - Google Chrome
         - Mozilla Firefox
@@ -60,7 +60,7 @@ body:
     id: browser-version
     attributes:
       label: Browser version
-      description: Version of the browser you're using to visit out blog (Again, you could [search how to know that](https://duckduckgo.com/?q=how+to+know+my+browser+version){:target="_blank"} or visit [https://www.whatsmybrowser.org/](https://www.whatsmybrowser.org/){:target="_blank"})
+      description: Version of the browser you're using to visit out blog (Again, you could [search how to know that](https://duckduckgo.com/?q=how+to+know+my+browser+version){"_blank"} or visit [https://www.whatsmybrowser.org/](https://www.whatsmybrowser.org/){"_blank"})
       placeholder: ex. 94.0 (64-bit)
     validations:
       required: false
@@ -68,7 +68,7 @@ body:
     id: terms
     attributes:
       label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/lealceldeiro/org.wcdevs.blog.front/blob/main/CODE_OF_CONDUCT.md)
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/lealceldeiro/org.wcdevs.blog.front/blob/main/CODE_OF_CONDUCT.md){"_blank"}
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
