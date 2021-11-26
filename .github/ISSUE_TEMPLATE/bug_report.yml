@@ -42,7 +42,7 @@ body:
     id: browser-type
     attributes:
       label: Browser
-      description: What browser are you using to visit our blog? (You could [search how to know that](https://duckduckgo.com/?q=how+to+know+what+browser+i'm+using) or visit [https://www.whatsmybrowser.org/](https://www.whatsmybrowser.org/))
+      description: What browser are you using to visit our blog? (You could [search how to know that](https://duckduckgo.com/?q=how+to+know+what+browser+i'm+using){:target="_blank"} or visit [https://www.whatsmybrowser.org/](https://www.whatsmybrowser.org/){:target="_blank"})
       options:
         - Google Chrome
         - Mozilla Firefox
@@ -60,7 +60,7 @@ body:
     id: browser-version
     attributes:
       label: Browser version
-      description: Version of the browser you're using to visit out blog (Again, you could [search how to know that](https://duckduckgo.com/?q=how+to+know+my+browser+version) or visit [https://www.whatsmybrowser.org/](https://www.whatsmybrowser.org/))
+      description: Version of the browser you're using to visit out blog (Again, you could [search how to know that](https://duckduckgo.com/?q=how+to+know+my+browser+version){:target="_blank"} or visit [https://www.whatsmybrowser.org/](https://www.whatsmybrowser.org/){:target="_blank"})
       placeholder: ex. 94.0 (64-bit)
     validations:
       required: false
