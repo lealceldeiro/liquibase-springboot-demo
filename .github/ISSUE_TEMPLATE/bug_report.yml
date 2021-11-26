@@ -42,7 +42,7 @@ body:
     id: browser-type
     attributes:
       label: Browser
-      description: What browser are you using to visit our blog? (You could [search how to know that](https://duckduckgo.com/?q=how+to+know+what+browser+i'm+using){"_blank"} or visit [https://www.whatsmybrowser.org/](https://www.whatsmybrowser.org/){"_blank"})
+      description: What browser are you using to visit our blog? (You could <a href="https://duckduckgo.com/?q=how+to+know+what+browser+i'm+using" target="_blank">search how to know that</a> or visit <a href="https://www.whatsmybrowser.org/" target="_blank">https://www.whatsmybrowser.org</a>)
       options:
         - Google Chrome
         - Mozilla Firefox
