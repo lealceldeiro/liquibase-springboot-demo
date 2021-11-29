@@ -7,6 +7,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 class LiquibaseSpringbootDemoApplicationTests {
     @Test
     void contextLoads() {
-        ////////
+        /////////
     }
 }
